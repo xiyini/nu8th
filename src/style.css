@@ -1,0 +1,3 @@
+.bulma-arrow-mixin {
+  @include arrow(purple);
+}
